@@ -9,7 +9,6 @@
     </head>
     <body>
 
-            <p style="color:#BADA55; gr">This is so bad ass</p>
             <div class="bg-white pt-4">
 
                 <h1 class="font-bold text-4xl mb-6 text-center">Metrinize recipe</h1>
